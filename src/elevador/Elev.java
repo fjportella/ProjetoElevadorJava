@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Fernando
+ * @author Fernando Portella
  */
 public class Elev extends javax.swing.JFrame {
 
