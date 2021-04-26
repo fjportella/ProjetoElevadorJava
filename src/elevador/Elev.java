@@ -10,6 +10,7 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author Fernando Portella
+ * Descrição: Projeto para a Faculdade - Curso Sistemas de Informação
  */
 public class Elev extends javax.swing.JFrame {
 
